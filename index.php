@@ -27,6 +27,6 @@
     
     <footer><p><a href="https://metromobilite.fr" rel="nofollow">source des données</a></p></footer>
     
-    <script src="js/api-vsb" defer></script>  
+    <script src="js/api-vsb.js" defer></script>  
 </body>
 </html>

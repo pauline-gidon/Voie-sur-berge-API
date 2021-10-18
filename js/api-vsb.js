@@ -22,7 +22,7 @@ fetch('https://data.metromobilite.fr/api/dyn/trr/json?codes=N0_GRE_COR_01')
                             if(idVsb == 0){
                                 statut = 'INFORMATION NON DISPONIBLE';
                             }else if(idVsb == 1){
-                                statut = 'FLUIDE';
+                                statut = 'OUVERTE';
                                 colorVoiture = '#72FF32';
                             }else if(idVsb == 2){
                                 statut = 'RALENTI';
